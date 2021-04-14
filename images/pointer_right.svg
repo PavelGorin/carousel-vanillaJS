@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 22" width="14" height="22">
+	<defs>
+		<image  width="14" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAWBAMAAAAC47AUAAAAAXNSR0IB2cksfwAAAB5QTFRF///+///+///+///+///+///+///+///+///+///+hNw6tAAAAAp0Uk5TAB028ID/N4fzasZX+RwAAABBSURBVHicY2BgZIAAZQcwxWQaAuGGhoIFkkNDwQJspngEwmECBSBGRmhoJBINE4eqg+mDmoPGhdsLcwfMXVB3AgCwsxZZO0eERAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="слайдер">
+		<use id="стрелка" href="#img1" x="0" y="0" />
+	</g>
+</svg>
